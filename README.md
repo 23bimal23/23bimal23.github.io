@@ -53,9 +53,6 @@ This is a personal portfolio website for Bimal Paudel, a Frontend Developer base
 
 This project is configured for GitHub Pages deployment. To deploy:
 
-1. Update the homepage in package.json with your GitHub Pages URL
-2. Run the build command
-3. Deploy the build folder to GitHub Pages
 
 ## 📞 Contact
 
