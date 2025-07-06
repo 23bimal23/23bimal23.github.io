@@ -17,7 +17,6 @@ const Index = () => {
   useEffect(() => {
     document.title = "Bimal Paudel | Frontend Developer";
     
-    // Simulate loading time
     const timer = setTimeout(() => {
       setLoading(false);
     }, 1500);

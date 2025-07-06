@@ -23,10 +23,9 @@ const Contact = () => {
     e.preventDefault();
     setIsSubmitting(true);
     
-    // Here would be the actual form submission to a backend
-    // For now, let's simulate it with a timeout
+
     setTimeout(() => {
-      toast.success("Message sent successfully!");
+      toast.success("Message sent successfully! this is  just a demo fature, no backend is connected.");
       setFormData({ name: "", email: "", message: "" });
       setIsSubmitting(false);
     }, 1500);
